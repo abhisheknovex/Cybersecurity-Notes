@@ -1,2 +1,15 @@
-# Cybersecurity-Notes
-My cybersecurity learning notes covering Linux, Networking, Vulnerability Management, and Security Operations.
+# Cybersecurity Notes
+
+This repository contains my cybersecurity learning notes and practical knowledge.
+
+Topics Covered:
+- Linux
+- Networking
+- Vulnerability Management
+- Security Operations
+- Qualys
+- CVE & CVSS
+- Patch Management
+
+Author:
+Abhishek Bobde
