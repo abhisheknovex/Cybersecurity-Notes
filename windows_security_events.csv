@@ -1,0 +1,13 @@
+timestamp,event_id,outcome,username,source_ip,logon_type,details
+2026-10-11T09:00:01,4624,SUCCESS,ABHISHEK,192.0.2.10,2,Interactive workstation logon
+2026-10-11T09:03:11,4625,FAILURE,administrator,203.0.113.45,3,Unknown account or invalid password
+2026-10-11T09:03:14,4625,FAILURE,administrator,203.0.113.45,3,Unknown account or invalid password
+2026-10-11T09:03:18,4625,FAILURE,administrator,203.0.113.45,3,Unknown account or invalid password
+2026-10-11T09:03:22,4625,FAILURE,administrator,203.0.113.45,3,Unknown account or invalid password
+2026-10-11T09:05:42,4624,SUCCESS,administrator,203.0.113.45,3,Successful network logon after failures; investigate context
+2026-10-11T09:06:02,4672,INFO,administrator,-,-,Special privileges assigned to new logon
+2026-10-11T09:10:17,4720,INFO,temp-support,-,-,A user account was created
+2026-10-11T09:12:44,4625,FAILURE,guest,198.51.100.23,3,Invalid password
+2026-10-11T09:14:20,4634,INFO,ABHISHEK,-,2,Logoff
+2026-10-11T09:20:10,4688,INFO,ABHISHEK,-,-,Process created: powershell.exe (synthetic example)
+2026-10-11T09:25:00,4740,INFO,test-user,-,-,Account locked out
